@@ -2,6 +2,8 @@
 
 <h3><a href="/animal/new">Place Animal To The List</a></h3>
 <hr>
+<div class="row">
+    <div class="col-xs-6">
 
 <h3> Report Other Animals </h3>
 <form action="/sighting" method="post">
@@ -20,8 +22,10 @@
     <button type="submit">Submit Report</button>
     #end
 </form>
-
+    </div>
 <hr>
+
+    <div class="col-xs-6">
 
 <h3> Reporting Of Endangered Animals </h3>
 <form action="/endangered_sighting" method="post">
@@ -41,11 +45,17 @@
     #end
 </form>
 
+</div>
+
+</div>
+
+
+
 
 <h3>Endangered Animals</h3>
 
 #if ($endangeredAnimals.size() == 0)
-<a href="/animal/new">Place Animal And Report The Sightin</a>
+<a href="/animal/new">Place Animal And Report The Sighting</a>
 #else
 #foreach ($endangeredAnimal in $endangeredAnimals)
 <a href="/endangered_animal/$endangeredAnimal.getId()" class="thumbnail">

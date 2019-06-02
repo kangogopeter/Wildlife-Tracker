@@ -14,6 +14,12 @@ url("css/fonts/Harabara.svg#filename") format("svg");
 p.customfont {
      font-family: "My Custom Font", Verdana, Tahoma;
  }
+ #pil{
+ background-image: url(/images/cockatoo.jpg);
+ }
+ #pet{
+ background-image: url(/images/cassowary.jpg );
+ }
 
 body {
   font-family: 'MyWebFont', Fallback, sans-serif;

@@ -1,5 +1,18 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+@font-face {
+font-family: "Harabara Bold";
+src: url("css/fonts/Harabara.eot");
+src:
+url("css/fonts/Harabara.woff") format("woff"),
+url("css/fonts/Harabara.otf") format("opentype"),
+url("css/fonts/Harabara.svg#filename") format("svg");
+  font-family: "My Custom Font";
+    src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
+}
+
+
+
 
 body {
   font-family: 'MyWebFont', Fallback, sans-serif;

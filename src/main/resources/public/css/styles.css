@@ -1,5 +1,16 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
 
+
+body {
+  font-family: 'MyWebFont', Fallback, sans-serif;
+  background-color: url(/images/antelop.jpg);
+}
+@font-face {
+  font-family: 'MyWebFont';
+  src: url('myfont.woff2') format('woff2'),
+       url('myfont.woff') format('woff'),
+       url('myfont.ttf') format('truetype');
+}
 *{
     box-sizing: border-box;
     margin: 0;

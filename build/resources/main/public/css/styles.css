@@ -23,7 +23,7 @@ p.customfont {
 
 body {
   font-family: 'MyWebFont', Fallback, sans-serif;
-  background-image: url(/images/antelop.jpg);
+  background-image: url(/antelop.jpg);
 }
 @font-face {
   font-family: 'MyWebFont';

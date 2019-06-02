@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="AnimalTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-06-02T14:52:02" hostname="peter-HP-EliteBook-8460p" time="0.315">
+<testsuite name="AnimalTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-06-02T15:12:44" hostname="peter-HP-EliteBook-8460p" time="0.364">
   <properties/>
-  <testcase name="find_returnsNullWhenNoAnimalFound_null" classname="AnimalTest" time="0.016"/>
-  <testcase name="animal_instantiatesCorrectly_false" classname="AnimalTest" time="0.008"/>
-  <testcase name="getName_animalInstantiatesWithName_Deer" classname="AnimalTest" time="0.008"/>
-  <testcase name="save_assignsIdToObjectAndSavesObjectToDatabase" classname="AnimalTest" time="0.046"/>
-  <testcase name="equals_returnsTrueIfNameIsTheSame_false" classname="AnimalTest" time="0.008"/>
-  <testcase name="delete_deletesAnimalFromDatabase_0" classname="AnimalTest" time="0.065"/>
-  <testcase name="all_returnsAllInstancesOfAnimal_false" classname="AnimalTest" time="0.077"/>
-  <testcase name="find_returnsAnimalWithSameId_secondAnimal" classname="AnimalTest" time="0.081"/>
+  <testcase name="find_returnsNullWhenNoAnimalFound_null" classname="AnimalTest" time="0.015"/>
+  <testcase name="animal_instantiatesCorrectly_false" classname="AnimalTest" time="0.009"/>
+  <testcase name="getName_animalInstantiatesWithName_Deer" classname="AnimalTest" time="0.007"/>
+  <testcase name="save_assignsIdToObjectAndSavesObjectToDatabase" classname="AnimalTest" time="0.077"/>
+  <testcase name="equals_returnsTrueIfNameIsTheSame_false" classname="AnimalTest" time="0.013"/>
+  <testcase name="delete_deletesAnimalFromDatabase_0" classname="AnimalTest" time="0.068"/>
+  <testcase name="all_returnsAllInstancesOfAnimal_false" classname="AnimalTest" time="0.089"/>
+  <testcase name="find_returnsAnimalWithSameId_secondAnimal" classname="AnimalTest" time="0.082"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

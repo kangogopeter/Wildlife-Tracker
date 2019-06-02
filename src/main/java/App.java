@@ -26,7 +26,7 @@ public class App {
         }
 
         port(port);
-        get("/peter", (request, response) -> {
+        get("/", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             model.put("animals", Animal.all());
             model.put("endangeredAnimals", EndangeredAnimal.all());
@@ -116,7 +116,7 @@ public class App {
             model.put("template", "templates/capcha.vtl");
             return new ModelAndView(model, layout);
         }, new VelocityTemplateEngine());
-        get("/", (request, response) -> {
+        get("/peter", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             model.put("template", "templates/home.vtl");
             return new ModelAndView(model, layout);

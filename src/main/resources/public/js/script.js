@@ -15,15 +15,15 @@ $(document).ready(function () {
 
 var videoObj    = { "video": true },
     errBack        = function(error){
-        // alert("Video capture error: ", error.code);
+
     };
 
 
-if(navigator.getUserMedia){                    // Standard
+if(navigator.getUserMedia){
     navigator.getUserMedia(videoObj, startWebcam, errBack);
-}else if(navigator.webkitGetUserMedia){        // WebKit
+}else if(navigator.webkitGetUserMedia){
     navigator.webkitGetUserMedia(videoObj, startWebcam, errBack);
-}else if(navigator.mozGetUserMedia){        // Firefox
+}else if(navigator.mozGetUserMedia){
     navigator.mozGetUserMedia(videoObj, startWebcam, errBack);
 };
 
@@ -35,10 +35,10 @@ function startWebcam(stream){
 
     video.width = video.offsetWidth;
 
-    if(navigator.getUserMedia){                    // Standard
+    if(navigator.getUserMedia){
         video.src = stream;
         video.play();
-    }else if(navigator.webkitGetUserMedia){        // WebKit
+    }else if(navigator.webkitGetUserMedia){
         video.src = window.webkitURL.createObjectURL(stream);
         video.play();
     }else if(navigator.mozGetUserMedia){

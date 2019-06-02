@@ -12,11 +12,20 @@ public class App {
         }
         return 4567;
     }
+
     public static void main(String[] args) {
         port(getHerokuAssignedPort());
         staticFileLocation("/public");
         String layout = "templates/layout.vtl";
+        ProcessBuilder process = new ProcessBuilder();
+        Integer port;
+        if (process.environment().get("PORT") != null) {
+            port = Integer.parseInt(process.environment().get("PORT"));
+        } else {
+            port = 4567;
+        }
 
+        port(port);
         get("/", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             model.put("animals", Animal.all());

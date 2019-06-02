@@ -26,7 +26,7 @@ public class App {
         }
 
         port(port);
-        get("/", (request, response) -> {
+        get("/peter", (request, response) -> {
             Map<String, Object> model = new HashMap<String, Object>();
             model.put("animals", Animal.all());
             model.put("endangeredAnimals", EndangeredAnimal.all());

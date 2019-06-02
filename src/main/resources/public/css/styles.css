@@ -11,8 +11,9 @@ url("css/fonts/Harabara.svg#filename") format("svg");
     src: url(http://www.example.org/mycustomfont.ttf) format("truetype");
 }
 
-
-
+p.customfont {
+     font-family: "My Custom Font", Verdana, Tahoma;
+ }
 
 body {
   font-family: 'MyWebFont', Fallback, sans-serif;

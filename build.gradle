@@ -10,6 +10,8 @@ group 'IP'
 version '1.0-SNAPSHOT'
 applicationName = 'Wildlife-Tracker'
 
+mainClassName = 'App'
+
 sourceCompatibility = 1.8
 
 repositories {

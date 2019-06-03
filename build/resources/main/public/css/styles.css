@@ -1,7 +1,7 @@
-body {
+.body {
   background-color: yellow;
 }
-input{
+.input{
 border-radius: 12px;
 }
 h1{

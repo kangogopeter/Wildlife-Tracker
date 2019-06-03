@@ -1,9 +1,12 @@
-body {
+.body {
   background-color: yellow;
 }
-input{
+.input{
 border-radius: 12px;
 }
 h1{
 color: cyan;
+}
+.dolly{
+background-color: lightgreen;
 }

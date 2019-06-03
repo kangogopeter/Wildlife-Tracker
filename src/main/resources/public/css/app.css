@@ -1,3 +1,4 @@
+@import "/fonts/fonts (1)/Allura"
 body {
   background-color: yellow;
 }
@@ -6,4 +7,5 @@ border-radius: 12px;
 }
 h1{
 color: cyan;
+font-family: Allura;
 }

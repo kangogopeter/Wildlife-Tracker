@@ -2,104 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7a0ac6-cae8-46c3-bcda-ed75cded8622" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Allerta_Stencil/AllertaStencil-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Allerta_Stencil/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Allura/Allura-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Allura/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/AmaticSC-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/AmaticSC-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/AmaticSC-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/AmaticSC-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Amatic_SC/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Architects_Daughter/ArchitectsDaughter-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Architects_Daughter/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Bad_Script/BadScript-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Bad_Script/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Bangers/Bangers-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Bangers/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/Cinzel-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/Cinzel-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/Cinzel-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/Cinzel-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Cinzel/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Comfortaa/Comfortaa[wght].ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Comfortaa/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Dancing_Script/DancingScript-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Dancing_Script/DancingScript-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Dancing_Script/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Homemade_Apple/HomemadeApple-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Homemade_Apple/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Kaushan_Script/KaushanScript-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Kaushan_Script/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Lemonada/Lemonada-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Lemonada/Lemonada-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Lemonada/Lemonada-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Lemonada/Lemonada-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Lemonada/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Marck_Script/MarckScript-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Marck_Script/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Modak/Modak-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Modak/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Monoton/Monoton-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Monoton/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Montez/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Montez/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Montez/Montez-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Montez/Montez-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Mr_Dafoe/MrDafoe-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Mr_Dafoe/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Pacifico/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Pacifico/Pacifico-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Parisienne/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Parisienne/Parisienne-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Press_Start_2P/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Press_Start_2P/PressStart2P-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/Rajdhani-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/Rajdhani-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/Rajdhani-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/Rajdhani-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Rajdhani/Rajdhani-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/OFL.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/OFL.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Black.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Black.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Bold.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Ruda/Ruda-Regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Sacramento/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Sacramento/Sacramento-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Satisfy/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Satisfy/Satisfy-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Shadows_Into_Light/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Shadows_Into_Light/ShadowsIntoLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Medium.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Code_Pro/SourceCodePro-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Serif_Pro/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Serif_Pro/SourceSerifPro-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Serif_Pro/SourceSerifPro-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Source_Serif_Pro/SourceSerifPro-Semibold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Special_Elite/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Special_Elite/SpecialElite-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Tangerine/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Tangerine/Tangerine-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Tangerine/Tangerine-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/VT323/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/VT323/VT323-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yanone_Kaffeesatz/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yanone_Kaffeesatz/YanoneKaffeesatz-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yanone_Kaffeesatz/YanoneKaffeesatz-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yanone_Kaffeesatz/YanoneKaffeesatz-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yanone_Kaffeesatz/YanoneKaffeesatz-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yellowtail/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yellowtail/Yellowtail-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yeon_Sung/OFL.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/public/fonts/fonts (1)/Yeon_Sung/YeonSung-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/main/templates/layout.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/main/templates/layout.vtl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -124,20 +26,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
+            <state relative-caret-position="187">
+              <caret line="83" column="4" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="557">
-              <caret line="204" column="18" lean-forward="true" selection-start-line="204" selection-start-column="18" selection-end-line="204" selection-end-column="18" />
+              <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -154,8 +56,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/capcha.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -172,8 +74,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="450">
+              <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -250,11 +152,11 @@
         <option value="$PROJECT_DIR$/src/main/resources/templates/animal-form.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/capcha.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/endangeredanimal.vtl" />
-        <option value="$PROJECT_DIR$/src/main/resources/templates/animal.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/home.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/success.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/public/css/styles.css" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/layout.vtl" />
+        <option value="$PROJECT_DIR$/src/main/resources/templates/animal.vtl" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/index.vtl" />
       </list>
     </option>
@@ -366,9 +268,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16363636" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16363636" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -387,7 +288,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" weight="0.9478827" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49848485" visible="true" weight="0.9478827" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50151515" side_tool="true" weight="0.9464286" />
       <window_info anchor="bottom" id="Build" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Console" order="11" />
@@ -568,31 +469,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal-form.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/capcha.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal.vtl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
+          <folding>
+            <element signature="e#4126#4133#1" expanded="true" />
+            <element signature="e#4594#4601#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -613,14 +504,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/layout.vtl">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-          <folding>
-            <element signature="e#4126#4133#1" expanded="true" />
-            <element signature="e#4594#4601#1" expanded="true" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="30" column="4" lean-forward="true" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="49" column="18" lean-forward="true" selection-start-line="49" selection-start-column="18" selection-end-line="49" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/animal-form.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="6" selection-start-line="32" selection-start-column="6" selection-end-line="32" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/capcha.vtl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -633,15 +541,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="91" column="16" selection-start-line="91" selection-start-column="16" selection-end-line="91" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/public/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="204" column="18" lean-forward="true" selection-start-line="204" selection-start-column="18" selection-end-line="204" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="83" column="4" lean-forward="true" selection-start-line="83" selection-start-column="4" selection-end-line="83" selection-end-column="4" />
         </state>
       </provider>
     </entry>

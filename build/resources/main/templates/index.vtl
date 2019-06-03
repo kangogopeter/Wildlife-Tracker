@@ -1,5 +1,5 @@
 
-<h1>Report a Wildlife Sighting</h1>
+<h1 color="green">Report a Wildlife Sighting</h1>
 
 <h3><a href="/animal/new">Place Animal To The List</a></h3>
 <hr>
@@ -62,8 +62,8 @@
 #foreach ($endangeredAnimal in $endangeredAnimals)
 <a href="/endangered_animal/$endangeredAnimal.getId()" class="thumbnail">
     <h4>$endangeredAnimal.getName()</h4>
-    <h4>$endangeredAnimal.getSightings().size() Reported Sighting(s)</h4>
-    <p>Click for details</p>
+    <h4>$endangeredAnimal.getSightings().size() Reported Sighting</h4>
+    <p color="red">Check for details</p>
 </a>
 #end
 #end
@@ -77,8 +77,8 @@
 #foreach ($animal in $animals)
 <a href="/animal/$animal.getId()" class="thumbnail">
     <h4>$animal.getName()</h4>
-    <h4>$animal.getSightings().size() Reported Sighting(s)</h4>
-    <u><p>Check Details</p></u>
+    <h4>$animal.getSightings().size() Reported Sighting</h4>
+    <u><p color="red">Check Details</p></u>
 </a>
 #end
 #end

@@ -7,10 +7,12 @@
 #if($animal.getSightings().size() == 0)
 <p>Thank You To The Report <a href="/">Main Page</a>.</p>
 #else
+<table class="table">
 #foreach($sighting in $animal.getSightings())
-Location: $sighting.getLocation()
-Reported by: $sighting.getRangerName()
-ID: >$sighting.getId()
+    <tr>Location:</tr> <tr><td>$sighting.getLocation()</tr></td>
+ td <tr>Reported by:</tr> <tr><td>$sighting.getRangerName()</tr></td>
+    <tr>ID:</tr> <tr><td>>$sighting.getId()</tr></td>
 #end
 #end
+</table>
 <a class="button"><span class="number">0</span><span class="label">Like</span></a>

@@ -7,6 +7,7 @@
 #if($animal.getSightings().size() == 0)
 <p>Thank You To The Report <a href="/">Main Page</a>.</p>
 #else
+
 <table class="table">
     <thead>
     <tr>
@@ -16,7 +17,7 @@
     </tr>
     </thead>
     <tbody>
-    #foreach($sighting in animal.getSightings())
+    #foreach($sighting in $animal.getSightings())
     <tr>
         <td>$sighting.getLocation()</td>
         <td>$sighting.getRangerName()</td>

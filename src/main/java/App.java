@@ -107,7 +107,7 @@ public class App {
             Map<String, Object> model = new HashMap<String, Object>();
             EndangeredAnimal endangeredAnimal = EndangeredAnimal.find(Integer.parseInt(request.params("id")));
             model.put("endangeredAnimal", endangeredAnimal);
-            model.put("template", "templates/endangered_animal.vtl");
+            model.put("template", "templates/endangeredanimal.vtl");
             return new ModelAndView(model, layout);
         }, new VelocityTemplateEngine());
 

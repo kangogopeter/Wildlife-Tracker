@@ -8,13 +8,22 @@
 <p>Thank You To The Report <a href="/">Main Page</a>.</p>
 #else
 <table class="table">
+    <thead>
     <tr>
-#foreach($sighting in $animal.getSightings())
-        <th>Location:</th> <td>$sighting.getLocation()</td>
-        <th>Reported by:</th> <td>$sighting.getRangerName()</td>
-        <th>ID:</th> <td>>$sighting.getId()</td>
-#end
-#end
+        <th scope="col">Location</th>
+        <th scope="col">Reported By</th>
+        <th scope="col">Animal ID</th>
     </tr>
+    </thead>
+    <tbody>
+    #foreach($sighting in animal.getSightings())
+    <tr>
+        <td>$sighting.getLocation()</td>
+        <td>$sighting.getRangerName()</td>
+        <td>$sighting.getId()</td>
+    </tr>
+    #end
+    </tbody>
 </table>
+#end
 <a class="button"><span class="number">0</span><span class="label">Like</span></a>

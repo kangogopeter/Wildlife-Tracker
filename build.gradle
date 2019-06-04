@@ -1,14 +1,12 @@
-plugins {
-    id 'java'
-    id 'application'
-}
+
 
 apply plugin: 'java'
 apply plugin: 'application'
 archivesBaseName = 'Wildlife-Tracker'
 group 'IP'
+
 version '1.0-SNAPSHOT'
-applicationName = 'Wildlife-Tracker'
+applicationName = 'wildlife-tracka'
 
 mainClassName = 'App'
 
@@ -17,6 +15,7 @@ sourceCompatibility = 1.8
 repositories {
     mavenCentral()
 }
+
 
 dependencies {
     testCompile group: 'junit', name: 'junit', version: '4.12'

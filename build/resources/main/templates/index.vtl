@@ -25,11 +25,8 @@ font-size: auto;
 u{
 color: green;
 }
-#click{
-background-color: yellow;
-}
 #play{
-
+background-color: wheat;
 }
 
 </style>
@@ -87,7 +84,7 @@ background-color: yellow;
 
 
 <div class="row">
-    <div id="play" class="col-md-6">
+    <div class="col-md-6">
 <h3>Endangered Animals</h3>
 
 #if ($endangeredAnimals.size() == 0)
@@ -103,7 +100,7 @@ background-color: yellow;
 #end
     </div>
 
-<div id="click" class="col-md-6">
+<div  class="col-md-6">
 <h3> Animals & Their Sightings</h3>
 #if ($animals.size() == 0)
 <a href="/animal/new">Place Animal And Report The Sighting</a>
@@ -127,7 +124,7 @@ background-color: yellow;
 <!--    <button id="myOnlineCamera" class="btn btn-info" aria-label="Left Align">-->
 <!--        <span class="glyphicon glyphicon-facetime-video" aria-hidden="true">Take Photo</span>-->
 <!--    </button>-->
-
+<div id="play">
 <address>
     <strong>WILDLIFE, Inc.</strong><br>
     1355 Wall Street, Suite 900<br>
@@ -139,3 +136,4 @@ background-color: yellow;
     <strong>Full Name</strong><br>
     <a href="https://animals.sandiegozoo.org/animals">About us:~</a>
 </address>
+</div>

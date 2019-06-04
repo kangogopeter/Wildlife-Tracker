@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b7a0ac6-cae8-46c3-bcda-ed75cded8622" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.vtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+            <state relative-caret-position="255">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -534,8 +534,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/index.vtl">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="58" column="7" lean-forward="true" selection-start-line="58" selection-start-column="7" selection-end-line="58" selection-end-column="7" />
+        <state relative-caret-position="255">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
         </state>
       </provider>
     </entry>

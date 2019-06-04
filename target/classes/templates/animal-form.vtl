@@ -1,0 +1,51 @@
+<style>
+    body {
+  background-color: yellow; important
+  background-size: fixed;
+}
+input{
+border-radius: 12px;
+}
+
+th{
+color: green;
+}
+
+h1{
+color: white;
+}
+.dolly{
+background-color: #f9f9f9;
+}
+</style>
+<h4><a href="/">Home</a></h4>
+
+<h1>Place The Animal Into A List/Form</h1>
+
+<form action="/animal/new" method="post">
+    <label>Animal Type</label>
+    <input type="text" name="name">
+    <label>Endangered?</label>
+    <input type="checkbox" name="endangered">
+
+    <h3>Additional Info for Endangered Animals:</h3>
+
+    <label>Health</label>
+    <select name="health">
+        <option>Healthy</option>
+        <option>Ok</option>
+        <option>Ill</option>
+        <option>Deceased</option>
+    </select>
+
+    <label>Age in terms of stage</label>
+    <select name="age">
+        <option>Newly born</option>
+        <option>Youngster</option>
+        <option>Adult</option>
+        <option>Old</option>
+    </select>
+
+    <button type="submit" class="btn btn-info">Add Animal</button>
+
+</form>

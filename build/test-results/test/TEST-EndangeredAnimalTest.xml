@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="EndangeredAnimalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-06-04T06:09:40" hostname="peter-HP-EliteBook-8460p" time="1.339">
+<testsuite name="EndangeredAnimalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2019-06-04T07:13:39" hostname="peter-HP-EliteBook-8460p" time="0.435">
   <properties/>
-  <testcase name="endangeredAnimal_instantiatesCorrectly_true" classname="EndangeredAnimalTest" time="0.009"/>
-  <testcase name="getHealth_returnsHealthAttribute_true" classname="EndangeredAnimalTest" time="0.009"/>
-  <testcase name="all_returnsAllInstancesOfEndangeredAnimal_true" classname="EndangeredAnimalTest" time="0.286"/>
-  <testcase name="update_updatesAgeAttribute_true" classname="EndangeredAnimalTest" time="0.593"/>
-  <testcase name="save_assignsIdAndSavesObjectToDatabase" classname="EndangeredAnimalTest" time="0.074"/>
-  <testcase name="find_returnsAnimalWithSameId_secondAnimal" classname="EndangeredAnimalTest" time="0.203"/>
-  <testcase name="update_updatesHealthAttribute_true" classname="EndangeredAnimalTest" time="0.16"/>
+  <testcase name="endangeredAnimal_instantiatesCorrectly_true" classname="EndangeredAnimalTest" time="0.007"/>
+  <testcase name="getHealth_returnsHealthAttribute_true" classname="EndangeredAnimalTest" time="0.007"/>
+  <testcase name="all_returnsAllInstancesOfEndangeredAnimal_true" classname="EndangeredAnimalTest" time="0.093"/>
+  <testcase name="update_updatesAgeAttribute_true" classname="EndangeredAnimalTest" time="0.066"/>
+  <testcase name="save_assignsIdAndSavesObjectToDatabase" classname="EndangeredAnimalTest" time="0.055"/>
+  <testcase name="find_returnsAnimalWithSameId_secondAnimal" classname="EndangeredAnimalTest" time="0.105"/>
+  <testcase name="update_updatesHealthAttribute_true" classname="EndangeredAnimalTest" time="0.093"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>

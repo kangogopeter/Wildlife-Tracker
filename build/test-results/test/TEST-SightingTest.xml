@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="SightingTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-06-04T06:09:38" hostname="peter-HP-EliteBook-8460p" time="2.058">
+<testsuite name="SightingTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2019-06-04T07:13:37" hostname="peter-HP-EliteBook-8460p" time="1.561">
   <properties/>
-  <testcase name="equals_returnsTrueIfLocationAndDescriptionAreSame_true" classname="SightingTest" time="1.294"/>
-  <testcase name="sighting_instantiatesCorrectly_true" classname="SightingTest" time="0.102"/>
-  <testcase name="save_insertsObjectIntoDatabase_Sighting" classname="SightingTest" time="0.283"/>
-  <testcase name="all_returnsAllInstancesOfSighting_true" classname="SightingTest" time="0.177"/>
-  <testcase name="find_returnsNullWhenNoAnimalFound_null" classname="SightingTest" time="0.041"/>
-  <testcase name="find_returnsSightingWithSameId_secondSighting" classname="SightingTest" time="0.155"/>
+  <testcase name="equals_returnsTrueIfLocationAndDescriptionAreSame_true" classname="SightingTest" time="0.844"/>
+  <testcase name="sighting_instantiatesCorrectly_true" classname="SightingTest" time="0.132"/>
+  <testcase name="save_insertsObjectIntoDatabase_Sighting" classname="SightingTest" time="0.151"/>
+  <testcase name="all_returnsAllInstancesOfSighting_true" classname="SightingTest" time="0.22"/>
+  <testcase name="find_returnsNullWhenNoAnimalFound_null" classname="SightingTest" time="0.033"/>
+  <testcase name="find_returnsSightingWithSameId_secondSighting" classname="SightingTest" time="0.176"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
